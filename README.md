@@ -3,6 +3,8 @@
 A clean and interactive HR Analytics Dashboard built entirely in Microsoft Excel using pivot tables, pivot charts, and slicers.
 This dashboard helps HR teams quickly analyze workforce insights such as attrition, gender distribution, department headcount, experience bands, and salary trends.
 
+📁 Repository Contents
+
 | File                            | Description                                                                       |
 | ------------------------------- | --------------------------------------------------------------------------------- |
 | **HR_Analytics_Dashboard.xlsx** | Main Excel file containing the complete dashboard, slicers, pivot tables & charts |
